@@ -52,7 +52,6 @@ body {
 .gaming-image {
     float: right;
     width: 180px;
-
 }
 
 .profile {
@@ -102,8 +101,6 @@ h1 {
     font-size: 5.625rem;
     line-height: 2;
     margin: 50px auto 0 auto;
-
-
 }
 
 h2 {
@@ -111,15 +108,12 @@ h2 {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
-
 }
 
 h3 {
     color: #105652;
     font-family: 'Josefin Sans', sans-serif;
     line-height: 2;
-
-
 }
 
 a {
